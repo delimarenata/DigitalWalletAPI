@@ -96,13 +96,3 @@ Swashbuckle.AspNetCore (7.2.0) - Documentação Swagger
 Swashbuckle.AspNetCore.Annotations (7.2.0) - Anotações para Swagger
 
 ---
-
-```
-├── src
-│   ├── controllers    # Controladores da API
-│   ├── models         # Modelos do Sequelize
-├── config             # Configuração do banco de dados
-├── docker-compose.yml # Configuração do Docker Compose
-├── package.json       # Dependências e scripts do projeto
-└── README.md          # Documentação do projeto
-```
